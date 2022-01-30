@@ -3,15 +3,17 @@ body {
     color: lime;
     max-width: 900px;
     margin: auto;
-    text-align: center;
-    background-image: url(newyork.jpeg);
-    padding: 50px;
-    font-size: 50px;
 }
-
 header {
     margin: 35px;
     font-size: 20px;
+}
+
+section jumbotron {
+    text-align: center;
+    background-image: url(newyork.jpeg);
+    padding: 50px;
+    font-size: 50px
 }
 
 h1,h2,h3 {text-align: center;
