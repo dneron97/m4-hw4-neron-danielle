@@ -3,12 +3,6 @@ body {
     color: darkblue;
     max-width: 900px;
     margin: auto;
-    background-image: url(newyork.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: repeat;
-    padding: 50px;
-    font-size: 50px;
 }
 header {
     margin: 35px;
@@ -20,4 +14,7 @@ color: lightcoral;}
 
 div > p {
     background-color: black;
+    background-image: url(newyork.jpeg);
+    padding: 50px;
+    background-position: center;
 }
