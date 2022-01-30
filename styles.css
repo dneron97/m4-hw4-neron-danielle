@@ -12,9 +12,13 @@ header {
 h1,h2,h3 {text-align: center;
 color: lightcoral;}
 
-div > p {
-    background-color: black;
+section information {
+    text-align: center;
     background-image: url(newyork.jpeg);
     padding: 50px;
-    background-position: center;
+    font-size: 50px;
+}
+
+div > p {
+    background-color: black;
 }
