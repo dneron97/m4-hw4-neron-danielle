@@ -12,7 +12,7 @@ header {
 
 section jumbotron {
     text-align: center;
-    background-image: url(newyork.jpeg/);
+    background-image: url(newyork.jpeg);
     padding: 50px;
     font-size: 50px;
 }
