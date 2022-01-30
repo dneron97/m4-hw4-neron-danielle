@@ -21,8 +21,8 @@ a {
     color: lightcoral;
 }
 
-h1,h2 {text-align: center;
-color: lime;}
+h1,h2,h3 {text-align: center;
+color: lightcoral;}
 
 div > p {
     background-color: black;
