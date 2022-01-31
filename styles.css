@@ -15,6 +15,7 @@ color: lightcoral;}
 h1 {
     text-align: center;
     background-image: url(newyork.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
     padding: 50px;
     font-size: 50px;
