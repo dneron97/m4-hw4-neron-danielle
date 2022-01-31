@@ -12,9 +12,10 @@ header {
 h1,h2,h3 {text-align: center;
 color: lightcoral;}
 
-section.information {
+h1 {
     text-align: center;
     background-image: url(newyork.jpeg);
+    background-repeat: no-repeat;
     padding: 50px;
     font-size: 50px;
 }
